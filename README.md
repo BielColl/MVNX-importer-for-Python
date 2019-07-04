@@ -7,4 +7,4 @@ To import the data from a MVNX file and create a MVNX object in python, write th
 ``` python
 data=mvnx.MVNX('example.mvnx')
 ```
-For an example of how to use the imported data inside python, take a look to the [a link](https://github.com/BielColl/MVNX-importer-for-Python/blob/master/example.py)
+For an example of how to use the imported data inside python, take a look to the [example](https://github.com/BielColl/MVNX-importer-for-Python/blob/master/example.py)
